@@ -1,6 +1,6 @@
 ## Morphoelastic models discriminate between different mechanisms of left-right asymmetric stomach morphogenesis
 
-**Project description:** Inspired by the developing *X. laevis* stomach, we wanted to investigate how different growth schemes align with the morphology observed *in vivo* using morphoelastic models.
+**Project description:** Inspired by the developing *X. laevis* stomach, we investigated how different growth schemes align with the morphology observed *in vivo* using morphoelastic models.
 
 ### Radial thinning combined with axial and circumferential expansion induces the expected shape changes
 
