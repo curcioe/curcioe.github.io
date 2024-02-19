@@ -5,4 +5,6 @@
 ### Link to the paper:
 [https://www.sciencedirect.com/science/article/pii/S2667290123000712](https://www.sciencedirect.com/science/article/pii/S2667290123000712)
 
+<img src="images/fig4.png?raw=true"/>
+
 
