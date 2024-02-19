@@ -4,3 +4,6 @@
 
 ### MATLAB code for initial geometries and links to paper and detailed descriptions found in the following repository:
 [https://github.com/curcioe/SE-initial-noto](https://github.com/curcioe/SE-initial-noto)
+
+### Link to the paper:
+[https://www.sciencedirect.com/science/article/abs/pii/S2667290123000013](https://www.sciencedirect.com/science/article/abs/pii/S2667290123000013)
