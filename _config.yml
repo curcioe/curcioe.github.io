@@ -5,7 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   City University of New York
   <br><br>
-  <a href="https://www.linkedin.com/in/ejcurcio/">View My LinkedIn Profile</a> 
+  contact: evan[dot]curcio[at]gmail[dot]com
+  <br>
+   <a href="https://scholar.google.com/citations?user=TnvnGwsAAAAJ&hl=en&oi=ao">Google Scholar</a> 
+   <br>
+  <a href="https://www.linkedin.com/in/ejcurcio/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
