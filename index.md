@@ -1,6 +1,4 @@
-## Biomathematics,
-## Modeling,
-## and Data Science
+## Biomathematics, Modeling, and Data Science
 
 ---
 
