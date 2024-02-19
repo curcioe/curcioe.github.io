@@ -3,4 +3,4 @@
 **Project description**: Modeling the developing *D. rerio* notochord cells as a liquid foam, we investigated how changing surface tension ratios caused changes in morphometry.
 
 ### MATLAB code for initial geometries and links to paper and detailed descriptions found in the following repository:
-https://github.com/curcioe/SE-initial-noto
+[https://github.com/curcioe/SE-initial-noto](https://github.com/curcioe/SE-initial-noto)
