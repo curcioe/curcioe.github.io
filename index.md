@@ -7,7 +7,7 @@
 
 ---
 [Notochords as Elastic Membranes](/pdf/noto2)
-<img src="images/cover2.jpg?raw=true"/>
+<img src="images/cover2.png?raw=true"/>
 
 ---
 [Notochords as Soap Films](http://example.com/)
