@@ -2,7 +2,7 @@
 
 ---
 
-[Stomach Morphogenesis and Morphoelasticity](/sample_page)
+[Stomach Morphogenesis and Morphoelasticity](/stomach_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
