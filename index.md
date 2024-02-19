@@ -1,33 +1,21 @@
-## Portfolio
+## Biomathematics,
+## Modeling,
+## and Data Science
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Stomach Morphogenesis and Morphoelasticity](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Notochords as Elastic Membranes](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Notochords as Soap Films](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
