@@ -3,7 +3,7 @@
 ---
 
 [Stomach Morphogenesis and Morphoelasticity](/stomach_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Fig8B.png?raw=true"/>
 
 ---
 [Notochords as Elastic Membranes](/pdf/noto2)
@@ -11,7 +11,7 @@
 
 ---
 [Notochords as Soap Films](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Front-Cover_2023_Cells---Development.png?raw=true"/>
 
 ---
 
