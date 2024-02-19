@@ -6,8 +6,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Notochords as Elastic Membranes](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Notochords as Elastic Membranes](/pdf/noto2)
+<img src="images/cover2.jpg?raw=true"/>
 
 ---
 [Notochords as Soap Films](http://example.com/)
