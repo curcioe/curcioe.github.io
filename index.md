@@ -6,11 +6,11 @@
 <img src="images/Fig8B.png?raw=true"/>
 
 ---
-[Notochords as Elastic Membranes](/pdf/noto2)
+[Notochords as Elastic Membranes](/noto2)
 <img src="images/cover2.png?raw=true"/>
 
 ---
-[Notochords as Soap Films](http://example.com/)
+[Notochords as Soap Films](/noto1)
 <img src="images/Front-Cover_2023_Cells---Development.png?raw=true"/>
 
 ---
