@@ -7,3 +7,5 @@
 
 ### Link to the paper:
 [https://www.sciencedirect.com/science/article/abs/pii/S2667290123000013](https://www.sciencedirect.com/science/article/abs/pii/S2667290123000013)
+
+<img src="images/r-t+z+ gif.gif?raw=true"/>
